@@ -1,4 +1,4 @@
-# Day5-Lab1-List
+# Python-Lab4-Lists
 
 Given the following list : [5, 4, 17, 19, 30, 2, 7, 10, 45]
 
